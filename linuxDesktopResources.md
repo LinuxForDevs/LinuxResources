@@ -25,7 +25,7 @@
 
 ### Installation Guides
 * Ubuntu            https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#0
-* 
+* Linux Mint        https://linuxmint-installation-guide.readthedocs.io/en/latest/
 
 ## Installing
 
