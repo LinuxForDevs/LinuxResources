@@ -34,4 +34,9 @@
 ## Applications
 * Snap / Flatpak comparison             https://github.com/AppImage/AppImageKit/wiki/Similar-projects#comparison
 * Flatpak                               https://flatpak.org/
+* Install Flatpak manager               https://flatpak.org/setup/
+* Using Flatpak from the command line   http://docs.flatpak.org/en/latest/using-flatpak.html
 * Snap                                  https://snapcraft.io/    
+  
+## Game Resources
+A "Top" free Linux Games List           https://itsfoss.com/free-linux-games/
