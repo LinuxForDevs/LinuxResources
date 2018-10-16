@@ -7,6 +7,13 @@
 ## Podcasts
 * Linux Action News       https://linuxactionnews.com/
 
+## Gaming
+
+* Lutris                      https://lutris.net/
+* GamingOnLinux               https://www.gamingonlinux.com/
+* LinApp                      http://lin-app.com/category/games/
+* penguspy                    http://www.penguspy.com/#/All/free_and_commercial/open_closed/sort=1/view=1/limit=0
+* The Linux Gamer's Game List http://icculus.org/lgfaq/gamelist.php
 
 ## Web Sites
 
