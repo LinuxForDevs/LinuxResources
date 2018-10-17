@@ -3,16 +3,18 @@
 ## Twitter
 * Linux Journal     @linuxjournal
 * Fedora Project    @fedora
+* Chris Fisher      @chrislas
+* Noah Chellia      @kernellinux
 
 ## Podcasts
 * Linux Action News       https://linuxactionnews.com/
-* Ask Noah
-* Latenight Linux
-* Linux Unplugged
+* Ask Noah                http://www.asknoahshow.com/
+* Latenight Linux         https://latenightlinux.com/
+* Linux Unplugged         https://linuxunplugged.com/
 
 ## Web Sites
 
-### General Interest
+### General Interest & News
 * The Linux Foundation      https://www.linuxfoundation.org/
 * Opensource.com            https://opensource.com/
 * Fedora Magazine           https://fedoramagazine.org/
@@ -34,12 +36,10 @@
 
 #### Mac
 * Create a bootable USB Ubuntu                  https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-macos
-* 
 
 #### Linux
 * Fedora                                        https://docs.fedoraproject.org/en-US/quick-docs/creating-and-using-a-live-installation-image/
 * Ubuntu                                        https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-ubuntu#0
-* 
 
 ### Command Line Cheatsheets
 * Tecmint                         https://www.tecmint.com/linux-commands-cheat-sheet/
