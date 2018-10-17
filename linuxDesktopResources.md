@@ -6,6 +6,9 @@
 
 ## Podcasts
 * Linux Action News       https://linuxactionnews.com/
+* Ask Noah
+* Latenight Linux
+* Linux Unplugged
 
 ## Web Sites
 
@@ -15,21 +18,35 @@
 * Fedora Magazine           https://fedoramagazine.org/
 * Distrwatch                https://distrowatch.com/
 
-
-## Installing
-
 ### Installation Guides
 * Ubuntu            https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#0
 * Linux Mint        https://linuxmint-installation-guide.readthedocs.io/en/latest/
 
-### Windows
+### Create a Bootable Flash Drive
+
+#### All OS
+* Etcher                                        https://etcher.io/
+* UNetbootin                                    http://unetbootin.github.io/
+
+#### Windows
 * Create a bootable Flash Drive on Windows      https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows#0 
 * Rufus - Free ISO burner for Windows           https://rufus.akeo.ie/
 
-### Mac
+#### Mac
+* Create a bootable USB Ubuntu                  https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-macos
 * 
 
-### Linux
+#### Linux
+* Fedora                                        https://docs.fedoraproject.org/en-US/quick-docs/creating-and-using-a-live-installation-image/
+* Ubuntu                                        https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-ubuntu#0
+* 
+
+### Command Line Cheatsheets
+* Tecmint                         https://www.tecmint.com/linux-commands-cheat-sheet/
+* Opensource                      https://opensource.com/article/18/4/10-commands-new-linux-users
+* Red Hat (PDF)                   https://developers.redhat.com/promotions/linux-cheatsheet/ 
+* Linux Training Academy (PDF)    https://courses.linuxtrainingacademy.com/itsfoss-cli-cheatsheet/ 
+* Linoxide                        http://images.linoxide.com/linux-cheat-sheet.pdf
 
 ## Applications
 * Snap / Flatpak comparison             https://github.com/AppImage/AppImageKit/wiki/Similar-projects#comparison
