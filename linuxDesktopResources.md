@@ -1,10 +1,10 @@
 # Linux Desktop Resources
 
 ## Twitter
-* Linux Journal     @linuxjournal
-* Fedora Project    @fedora
-* Chris Fisher      @chrislas
-* Noah Chellia      @kernellinux
+* Linux Journal     [@linuxjournal](https://twitter.com/linuxjournal) 
+* Fedora Project    [@fedora](https://twitter.com/fedora) 
+* Chris Fisher      [@chrislas](https://twitter.com/chrislas) 
+* Noah Chellia      [@kernellinux](https://twitter.com/kernellinux) 
 
 ## Podcasts
 * Linux Action News       [https://linuxactionnews.com/](https://linuxactionnews.com/)
