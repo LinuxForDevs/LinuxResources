@@ -18,7 +18,23 @@
 * The Linux Foundation      [https://www.linuxfoundation.org/](https://www.linuxfoundation.org/)  
 * Opensource.com            [https://opensource.com/](https://opensource.com/) 
 * Fedora Magazine           [https://fedoramagazine.org/](https://fedoramagazine.org/) 
-* Distrwatch                [https://distrowatch.com/](https://distrowatch.com/) 
+* Distrowatch                [https://distrowatch.com/](https://distrowatch.com/) 
+
+### Distros
+* Ubuntu            [https://www.ubuntu.com/](https://www.ubuntu.com/)
+* Fedora            [https://getfedora.org/](https://getfedora.org/)  
+* Elementary        [https://elementary.io/](https://elementary.io/) 
+* Linux Mint        [https://linuxmint.com/](https://linuxmint.com/)
+* CentOS            [https://www.centos.org/](https://www.centos.org/)
+* Debian            [https://www.debian.org/](https://www.debian.org/)
+* OpenSUSE          [https://www.opensuse.org/](https://www.opensuse.org/)
+* Arch              [https://www.archlinux.org/](https://www.archlinux.org/)
+
+### Desktop Environments
+* Gnome             [https://www.gnome.org/](https://www.gnome.org/)
+* KDE               [https://www.kde.org/](https://www.kde.org/)
+* Xfce              [https://www.xfce.org/](https://www.xfce.org/)
+* LXDE              [https://lxde.org/](https://lxde.org/)
 
 ### Installation Guides
 * Ubuntu            [https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#0](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#0) 
@@ -53,7 +69,9 @@
 * Flatpak                               [https://flatpak.org/](https://flatpak.org/) 
 * Install Flatpak manager               [https://flatpak.org/setup/](https://flatpak.org/setup/) 
 * Using Flatpak from the command line   [http://docs.flatpak.org/en/latest/using-flatpak.html](http://docs.flatpak.org/en/latest/using-flatpak.html) 
-* Snap                                  [https://snapcraft.io/](https://snapcraft.io/) 
+* Snap                                  [https://snapcraft.io/](https://snapcraft.io/)
+* Photo editing alternative             [https://www.photopea.com/](https://www.photopea.com/) 
+* Photography                           [https://www.darktable.org/](https://www.darktable.org/) 
   
 ## Gaming
 * Lutris                           [https://lutris.net/](https://lutris.net/) 
