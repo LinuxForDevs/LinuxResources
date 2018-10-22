@@ -1,10 +1,15 @@
 # Linux Desktop Resources
 
 ## Twitter
-* Linux Journal     [@linuxjournal](https://twitter.com/linuxjournal) 
-* Fedora Project    [@fedora](https://twitter.com/fedora) 
-* Chris Fisher      [@chrislas](https://twitter.com/chrislas) 
-* Noah Chellia      [@kernellinux](https://twitter.com/kernellinux) 
+* Linux Journal           [@linuxjournal](https://twitter.com/linuxjournal) 
+* The Linux Foundation    [@linuxfoundation](https://twitter.com/linuxfoundation)
+* Chris Fisher            [@chrislas](https://twitter.com/chrislas) 
+* Noah Chellia            [@kernellinux](https://twitter.com/kernellinux) 
+* Fedora Project          [@fedora](https://twitter.com/fedora)
+* Ubuntu                  [@ubuntu](https://twitter.com/ubuntu)
+* Arch Linux              [@archlinux](https://twitter.com/archlinux)
+* OMG! Ubuntu             [@omgubuntu](https://twitter.com/omgubuntu)
+* Distrowatch             [@DistroWatch](https://twitter.com/DistroWatch)
 
 ## Podcasts
 * Linux Action News       [https://linuxactionnews.com/](https://linuxactionnews.com/)
@@ -15,10 +20,14 @@
 ## Web Sites
 
 ### General Interest & News
-* The Linux Foundation      [https://www.linuxfoundation.org/](https://www.linuxfoundation.org/)  
-* Opensource.com            [https://opensource.com/](https://opensource.com/) 
-* Fedora Magazine           [https://fedoramagazine.org/](https://fedoramagazine.org/) 
-* Distrowatch                [https://distrowatch.com/](https://distrowatch.com/) 
+* Linux.com                                 [http://www.linux.com/](http://www.linux.com/)
+* Linux.org                                 [http://www.linux.org/](http://www.linux.org/)
+* The Linux Foundation                      [https://www.linuxfoundation.org/](https://www.linuxfoundation.org/)  
+* Opensource.com                            [https://opensource.com/](https://opensource.com/) 
+* Fedora Magazine                           [https://fedoramagazine.org/](https://fedoramagazine.org/) 
+* Distrowatch                               [https://distrowatch.com/](https://distrowatch.com/)
+* Linux Kernel Archives                     [https://www.kernel.org/](https://www.kernel.org/)
+* Crowdsourced Software Recommendations     [https://alternativeto.net/](https://alternativeto.net/)
 
 ### Distros
 * Ubuntu            [https://www.ubuntu.com/](https://www.ubuntu.com/)
