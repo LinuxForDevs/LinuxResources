@@ -10,6 +10,8 @@
 * Arch Linux              [@archlinux](https://twitter.com/archlinux)
 * OMG! Ubuntu             [@omgubuntu](https://twitter.com/omgubuntu)
 * Distrowatch             [@DistroWatch](https://twitter.com/DistroWatch)
+* It's FOSS - Linux Blog  [@itsfoss2](https://twitter.com/itsfoss2)
+* Nixcraft                [@nixcraft](https://twitter.com/nixcraft)
 
 ## Podcasts
 * Linux Action News       [https://linuxactionnews.com/](https://linuxactionnews.com/)
@@ -38,6 +40,7 @@
 * Debian            [https://www.debian.org/](https://www.debian.org/)
 * OpenSUSE          [https://www.opensuse.org/](https://www.opensuse.org/)
 * Arch              [https://www.archlinux.org/](https://www.archlinux.org/)
+* Kali              [https://www.kali.org/](https://www.kali.org/)
 
 ### Desktop Environments
 * Gnome             [https://www.gnome.org/](https://www.gnome.org/)
@@ -47,7 +50,9 @@
 
 ### Installation Guides
 * Ubuntu            [https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#0](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#0) 
-* Linux Mint        [https://linuxmint-installation-guide.readthedocs.io/en/latest/](https://linuxmint-installation-guide.readthedocs.io/en/latest/) 
+* Linux Mint        [https://linuxmint-installation-guide.readthedocs.io/en/latest/](https://linuxmint-installation-guide.readthedocs.io/en/latest/)
+* Debian            [https://debian.org/releases/stable/installmanual](https://www.debian.org/releases/stable/installmanual)
+* Kali              [https://docs.kali.org/category/installation](https://docs.kali.org/category/installation)
 
 ### Create a Bootable Flash Drive
 
