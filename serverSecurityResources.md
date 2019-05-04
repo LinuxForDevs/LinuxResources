@@ -1,5 +1,9 @@
 # Server Security Resources
 
+## Auditd
+
+* [Linux Man Page](https://linux.die.net/man/8/auditd)
+
 ## Fail2ban
 
 *   [Manual](https://www.fail2ban.org/wiki/index.php/MANUAL_0_8)
@@ -17,6 +21,10 @@
 ## Maldet
 
 *   [Project Home](https://www.rfxn.com/projects/linux-malware-detect/)
+
+## OpenSCAP
+
+* [Home/portal](https://www.open-scap.org/)
 
 ## Rootkit Hunter (rkhunter)
 
